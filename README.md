@@ -2,7 +2,7 @@
 <h3 align='center'><i>Frontend apprentice</i></h3>
 
 <i> I'm currently learning React.js and TypeScript 
-and working on progress tracking application</i>
+and working on progress tracking application.</i>
 
 How to reach me <i>louietrueman@gmail.com</i>
    
