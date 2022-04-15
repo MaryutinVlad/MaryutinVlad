@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align='center'>Hi there, I'm Vlad</h1>
+<h3 align='center'><i>Frontend apprentice</i></h3>
+
+<i> I'm currently learning React.js and TypeScript 
+and working on progress tracking application</i>
+
+How to reach me <i>louietrueman@gmail.com</i>
+   
 
 <!--
 **MaryutinVlad/MaryutinVlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
