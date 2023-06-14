@@ -1,8 +1,7 @@
 <h1 align='center'>Hi there, I'm Vlad</h1>
 <h3 align='center'><i>Frontend apprentice</i></h3>
 
-<i> I'm currently learning React.js and TypeScript 
-and working on progress tracking application.</i>
+<i> Currently on TypeScript and NextJS.</i>
 
 How to reach me <i>louietrueman@gmail.com</i>
    
